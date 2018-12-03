@@ -7,3 +7,8 @@ gem 'activerecord', require: 'active_record'
 gem 'rspec'
 gem 'rake'
 gem 'pry'
+
+gem "sinatra"
+gem "pg"
+gem "sinatra-activerecord"
+
